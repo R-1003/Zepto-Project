@@ -393,8 +393,3 @@ The project helped strengthen practical SQL skills in data exploration, data cle
 
 ---
 
-## 👨‍💻 Author
-
-**Rajesh Panchal**
-
-This project is part of my SQL/Data Analysis learning journey, with a focus on developing practical skills for **Data Analyst and Business Analyst roles**.
